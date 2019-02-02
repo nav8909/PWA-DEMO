@@ -1,0 +1,64 @@
+{
+  "name": "Grán Hotel México",
+  "short_name": ".: HM :.",
+  "description": "Bienvenid@s al nuevo sitio del Grán Hotel México Tehuacán :)",
+  "background_color": "#333",
+  "theme_color": "#daa520",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./HM.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./HM.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
